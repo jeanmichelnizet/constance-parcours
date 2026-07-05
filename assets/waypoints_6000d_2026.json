@@ -1,0 +1,112 @@
+[
+ {
+  "nom": "Aime — Départ",
+  "km_officiel": 0,
+  "alt_officielle": 676,
+  "type": "start",
+  "idx": 0,
+  "lat": 45.55713,
+  "lon": 6.65362,
+  "ele_gpx": 676
+ },
+ {
+  "nom": "Sommet piste de bobsleigh",
+  "km_officiel": 12.9,
+  "alt_officielle": 1572,
+  "type": "split",
+  "idx": 944,
+  "lat": 45.52332,
+  "lon": 6.67714,
+  "ele_gpx": 1572
+ },
+ {
+  "nom": "Plagne Centre",
+  "km_officiel": 20.4,
+  "alt_officielle": 1983,
+  "type": "ravito",
+  "idx": 1532,
+  "lat": 45.50553,
+  "lon": 6.67741,
+  "ele_gpx": 1983
+ },
+ {
+  "nom": "Roche de Mio",
+  "km_officiel": 28.2,
+  "alt_officielle": 2672,
+  "type": "split",
+  "idx": 2249,
+  "lat": 45.4915,
+  "lon": 6.73368,
+  "ele_gpx": 2672
+ },
+ {
+  "nom": "Col de la Chiaupe",
+  "km_officiel": 30.8,
+  "alt_officielle": 2522,
+  "type": "ravito",
+  "idx": 2433,
+  "lat": 45.49138,
+  "lon": 6.74982,
+  "ele_gpx": 2522
+ },
+ {
+  "nom": "Live 3000 — point culminant",
+  "km_officiel": 34.7,
+  "alt_officielle": 3008,
+  "type": "summit",
+  "idx": 2836,
+  "lat": 45.49703,
+  "lon": 6.77063,
+  "ele_gpx": 3008
+ },
+ {
+  "nom": "Chalet du Carroley",
+  "km_officiel": 42.4,
+  "alt_officielle": 2124,
+  "type": "split",
+  "idx": 3495,
+  "lat": 45.52325,
+  "lon": 6.72704,
+  "ele_gpx": 2124
+ },
+ {
+  "nom": "Plagne Bellecôte",
+  "km_officiel": 47.6,
+  "alt_officielle": 1897,
+  "type": "ravito",
+  "idx": 3900,
+  "lat": 45.51536,
+  "lon": 6.69443,
+  "ele_gpx": 1897
+ },
+ {
+  "nom": "Montchavin",
+  "km_officiel": 57.3,
+  "alt_officielle": 1195,
+  "type": "ravito",
+  "idx": 4681,
+  "lat": 45.56022,
+  "lon": 6.73372,
+  "ele_gpx": 1195
+ },
+ {
+  "nom": "Sangot",
+  "km_officiel": 64.2,
+  "alt_officielle": 789,
+  "type": "split",
+  "idx": 5261,
+  "lat": 45.55763,
+  "lon": 6.68357,
+  "ele_gpx": 789
+ },
+ {
+  "nom": "Aime — Arrivée",
+  "km_officiel": 67.3,
+  "alt_officielle": 679,
+  "type": "finish",
+  "idx": 5441,
+  "lat": 45.55713,
+  "lon": 6.65362,
+  "ele_gpx": 679
+ }
+]

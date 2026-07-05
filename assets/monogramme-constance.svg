@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 132" width="116" height="132">
+  
+  
+  <g fill="none" stroke="#3CA8F5" stroke-width="2.4" stroke-linejoin="round">
+    <path d="M58 16 L96 92 L20 92 Z"></path>
+    <circle cx="58" cy="70" r="7"></circle>
+  </g>
+  <circle cx="58" cy="70" r="3" fill="#F5C233"></circle>
+  <g stroke="#8AD0FB" stroke-width="2">
+    <path d="M58 16 v10"></path><path d="M20 92 h10"></path><path d="M96 92 h-10"></path>
+  </g>
+  <text x="58" y="58" text-anchor="middle" font-family="&#39;Libre Caslon Display&#39;, serif" font-size="34" fill="#F5F8FB">C</text>
+  <text x="58" y="112" text-anchor="middle" font-family="&#39;Spline Sans Mono&#39;, monospace" font-size="9" letter-spacing="2" fill="#8AD0FB">2200 M</text>
+</svg>

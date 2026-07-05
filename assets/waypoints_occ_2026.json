@@ -1,0 +1,112 @@
+[
+ {
+  "nom": "Orsières — Départ",
+  "km_officiel": 0.0,
+  "alt_officielle": 916,
+  "type": "start",
+  "idx": 0,
+  "lat": 46.02398,
+  "lon": 7.14513,
+  "ele_gpx": 916
+ },
+ {
+  "nom": "Champex-Lac",
+  "km_officiel": 8.4,
+  "alt_officielle": 1463,
+  "type": "ravito",
+  "idx": 771,
+  "lat": 46.02597,
+  "lon": 7.12215,
+  "ele_gpx": 1463
+ },
+ {
+  "nom": "Plan de l'Au",
+  "km_officiel": 13.3,
+  "alt_officielle": 1334,
+  "type": "split",
+  "idx": 1159,
+  "lat": 46.04973,
+  "lon": 7.07999,
+  "ele_gpx": 1334
+ },
+ {
+  "nom": "La Giete",
+  "km_officiel": 19.7,
+  "alt_officielle": 1887,
+  "type": "split",
+  "idx": 1902,
+  "lat": 46.05582,
+  "lon": 7.03432,
+  "ele_gpx": 1887
+ },
+ {
+  "nom": "Trient",
+  "km_officiel": 24.9,
+  "alt_officielle": 1308,
+  "type": "ravito",
+  "idx": 2409,
+  "lat": 46.0561,
+  "lon": 6.99555,
+  "ele_gpx": 1308
+ },
+ {
+  "nom": "Col de Balme",
+  "km_officiel": 34.7,
+  "alt_officielle": 2203,
+  "type": "split",
+  "idx": 3219,
+  "lat": 46.02628,
+  "lon": 6.97074,
+  "ele_gpx": 2203
+ },
+ {
+  "nom": "Tête de Balme — point culminant",
+  "km_officiel": 35.5,
+  "alt_officielle": 2299,
+  "type": "summit",
+  "idx": 3290,
+  "lat": 46.03102,
+  "lon": 6.9665,
+  "ele_gpx": 2299
+ },
+ {
+  "nom": "Col des Posettes",
+  "km_officiel": 42.1,
+  "alt_officielle": 1997,
+  "type": "ravito",
+  "idx": 3794,
+  "lat": 46.02475,
+  "lon": 6.95126,
+  "ele_gpx": 1997
+ },
+ {
+  "nom": "Le Tour",
+  "km_officiel": 47.1,
+  "alt_officielle": 1475,
+  "type": "ravito",
+  "idx": 4288,
+  "lat": 46.00136,
+  "lon": 6.94752,
+  "ele_gpx": 1475
+ },
+ {
+  "nom": "Argentière",
+  "km_officiel": 50.5,
+  "alt_officielle": 1276,
+  "type": "split",
+  "idx": 4579,
+  "lat": 45.98411,
+  "lon": 6.92765,
+  "ele_gpx": 1276
+ },
+ {
+  "nom": "Chamonix — Arrivée",
+  "km_officiel": 61.5,
+  "alt_officielle": 1043,
+  "type": "finish",
+  "idx": 5592,
+  "lat": 45.9236,
+  "lon": 6.86912,
+  "ele_gpx": 1043
+ }
+]
